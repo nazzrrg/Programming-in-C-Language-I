@@ -17,3 +17,4 @@ First semester worth of programming laboratory practice tasks while learning C l
 13. [Редактор метаинформации mp3-файла(Mp3 Tag Editor)](https://github.com/nazzrrg/Programming-in-C-Language-I/blob/master/Programming%20in%20C/lab13/main.c)
 14. [Игра жизнь(Game of Life)](https://github.com/nazzrrg/Programming-in-C-Language-I/blob/master/Programming%20in%20C/lab14/main.c)
 15. [Архиватор(Archiver)](https://github.com/nazzrrg/Programming-in-C-Language-I/blob/master/Programming%20in%20C/lab15/main.c)
+16. [Рубежная работа(Mid-sem Testing)](https://github.com/nazzrrg/Programming-in-C-Language-I/blob/master/Programming%20in%20C/Rubezh/main.c)
