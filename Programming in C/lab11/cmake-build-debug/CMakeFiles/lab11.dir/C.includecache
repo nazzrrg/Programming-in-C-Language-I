@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nazzrrg/Desktop/labs and hw/Programming/lab11/square.c
+square.h
+/Users/nazzrrg/Desktop/labs and hw/Programming/lab11/square.h
+stdio.h
+-
+
+/Users/nazzrrg/Desktop/labs and hw/Programming/lab11/square.h
+

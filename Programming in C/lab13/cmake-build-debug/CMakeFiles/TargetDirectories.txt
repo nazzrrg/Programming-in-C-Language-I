@@ -1,0 +1,3 @@
+/Users/nazzrrg/Desktop/labs and hw/Programming/lab13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nazzrrg/Desktop/labs and hw/Programming/lab13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazzrrg/Desktop/labs and hw/Programming/lab13/cmake-build-debug/CMakeFiles/lab13.dir
